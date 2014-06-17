@@ -1,0 +1,4 @@
+MyGitRepo
+=========
+
+Sample Repository
